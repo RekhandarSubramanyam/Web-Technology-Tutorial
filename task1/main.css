@@ -1,0 +1,16 @@
+.container{
+    text-align: center;
+    font-style: italic;
+}
+.image{
+    margin-left:300px;
+}
+.table,tr ,th,td {
+    border:2px solid;
+    text-align:center;
+
+
+}
+.table{
+   margin-left:  200px;
+}
