@@ -1,0 +1,53 @@
+.navbar{
+    width: 100%;
+    height: 50px;
+    background-color: red;
+}
+.nav{
+    height: 50px;
+    margin-left: 100px;
+}
+.container1 {
+  
+    margin-left:600px;
+    margin-top: 0px;
+    height: 50px;
+    
+}
+.navBtn{
+    float: right;
+    margin-right:300px;
+    margin-top:15px;
+    font-size: 25px;
+}
+.navBtn1{
+    float: right;
+    margin-right:30px;
+    margin-top:15px;
+    font-size: 25px;
+
+}
+.navBtn2{
+    float: right;
+    margin-right:50px;
+    margin-top:15px;
+    font-size: 25px;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-style: italic;
+    font-size: 20px;
+    margin-left: 50px;
+    font-weight: normal;
+
+}
+.containerBtn{
+    margin-left:300px;
+    width:50%;
+    border: 3px solid red;
+}
+.containerPtn{
+
+}
